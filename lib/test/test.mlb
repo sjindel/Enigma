@@ -1,0 +1,6 @@
+local
+  $(SML_LIB)/basis/basis.mlb
+  test.sml
+in
+  structure Test
+end

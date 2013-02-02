@@ -1,0 +1,11 @@
+local
+  $(SML_LIB)/basis/basis.mlb
+  ../com/com.mlb
+  alg.sml
+in
+  signature RING
+  signature FIELD
+  signature MATRIX
+  signature RMAT
+  structure Matrix
+end

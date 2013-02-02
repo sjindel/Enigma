@@ -1,0 +1,6 @@
+local
+  $(SML_LIB)/basis/basis.mlb
+  ../../lib/eng.mlb
+in
+  test_emb.sml
+end

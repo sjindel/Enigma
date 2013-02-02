@@ -1,0 +1,9 @@
+local
+  ../lib/test/test.mlb
+  com/test_com.mlb
+  emb/test_emb.mlb
+  set/test_set.mlb
+  core/test_core.mlb
+in
+  test.sml
+end

@@ -1,0 +1,6 @@
+local
+  $(SML_LIB)/basis/basis.mlb
+  ../com/com.mlb
+  ../core/core.mlb
+in
+end

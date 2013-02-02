@@ -1,0 +1,9 @@
+local
+  $(SML_LIB)/basis/basis.mlb
+  $(SML_LIB)/smlnj-lib/Util/smlnj-lib.mlb
+  ../../lib/com/com.mlb
+  ../../lib/test/test.mlb
+  ../../lib/set/set.mlb
+in
+  test_set.sml
+end

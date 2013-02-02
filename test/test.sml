@@ -1,0 +1,5 @@
+val _ = ( TestCom.run_tests ()
+        ; TestSet.run_tests ()
+        ; TestEmb.run_tests ()
+        ; TestCore.run_tests ()
+        ; Test.print_results () )
